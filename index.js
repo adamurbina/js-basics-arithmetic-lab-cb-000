@@ -17,4 +17,4 @@ const randomNumber = Math.random() * 10 * 2
 
 const randomInteger = Math.floor(randomNumber)
 
-const randomUserID = Math.floor(Math.random() * 10000000)
+const randomUserID = Math.floor(Math.random() * 1000000000)
